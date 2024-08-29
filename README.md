@@ -30,7 +30,7 @@
 </p>
 
 - 🔭 I’m currently working on [Flutter application](https://github.com/revanthraj28/GkVK)
-- 🌱 I’m currently learning **large language model (LLM)**
+- 🌱 I’m currently learning **Fine-tuning**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://3d-portfolio-revanths-projects-8a9e66a7.vercel.app/)
 - 💬 Ask me about **iOS, Flutter, React, and Python**
 - 📫 How to reach me **[Contact Me](https://3d-portfolio-revanths-projects-8a9e66a7.vercel.app/contact)**
