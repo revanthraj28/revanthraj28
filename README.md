@@ -35,7 +35,7 @@
 - 💬 Ask me about **iOS, Flutter, React, and Python**
 - 📫 How to reach me **[Contact Me](https://3d-portfolio-revanths-projects-8a9e66a7.vercel.app/contact)**
 - 📄 Know about my experiences [My Resume](https://shorturl.at/h40AP)
-- ⚡ Fun fact **"Humble in heart and Wise in response"**
+- ⚡ About Me **"Humble in heart and Wise in response"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
