@@ -28,10 +28,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Flutter application](https://github.com/revanthraj28/GkVK)
-- 🌱 I’m currently learning **Fine-tuning**
+- 🔭 I’m currently working on a **production-grade 1.58-bit LLM**
+- 🌱 I’m currently exploring **ternary-weight quantization and efficient on-device inference**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://3d-portfolio-revanths-projects-8a9e66a7.vercel.app/)
-- 💬 Ask me about **iOS, Flutter, React, and Python**
+- 💬 Ask me about **Agentic AI, RAG, LLM fine-tuning, and Python**
 - 📫 How to reach me **[Contact Me](https://3d-portfolio-revanths-projects-8a9e66a7.vercel.app/contact)**
 - 📄 Know about my experiences [My Resume](https://shorturl.at/h40AP)
 - ⚡ About Me **"Humble in heart and Wise in response"**
