@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revanth Raj</h1>
-<h3 align="center">Full-Stack Mobile and Web Developer</h3>
+<h3 align="center">Senior AI software Engineer</h3>
 
 <!-- MasterHead Banner -->
 <p align="center">
